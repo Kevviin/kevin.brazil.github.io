@@ -1,16 +1,16 @@
 # kevin.brazil.github.io
-Hi welcome to my website and this is my 1 minute Video Presentation : https://youtu.be/JW-pWa3OYws
+-Hi welcome to my website and this is my 1 minute Video Presentation: https://youtu.be/JW-pWa3OYws
 Kevin Bradly O. Brazil
 Video Game Editor
 
-Contact Me
+-Contact Me
 Facebook Profile:
 Kevin Bradly Brazil
 
 kevinbradlybrazil10@gmail.com
 +639989367397
 
-Skills
+-Skills
 Video Game Editor
 Photo Editor
 Game Testing
@@ -18,18 +18,16 @@ Problem Solving
 Team Communication
 Team Managing
 
-Volunteer Work and Interests
+-Volunteer Work and Interests
 Volunteer Introduction to E-Sports Teacher
 
 
-Member,
+-Member,
 LPE Members
 
-Work Experience
+-Work Experience
 Junior E-sports Manager
 Tier One Entertainment is a Southeast Asian esports and video gaming oriented entertainment agency. It maintains the Blacklist International esports team.
-
-July 2026 to Present 
 
 Maintained a 100% Player satisfaction rating by developing and implementing management solutions based on client experience.
 
@@ -41,7 +39,7 @@ Video editing for Cinematics and Short Films
 
 Photo editing for Cinematic shots
 
-Education
+-Education
 Bachelor of Science in E-Sports Management
 Institution: Lyceum of the Philippines University
 Year of Graduation: 2026
