@@ -11,19 +11,15 @@ kevinbradlybrazil10@gmail.com
 +639989367397
 
 -Skills
-Video Game Editor,
-Photo Editor,
-Game Testing,
-Problem Solving,
-Team Communication,
+Video Game Editor
+Photo Editor
+Game Testing
+Problem Solving
+Team Communication
 Team Managing
 
 -Volunteer Work and Interests
   -Volunteer Introduction to E-Sports Teacher
-
-
--Member,
-LPE Members
 
 -Work Experience
   -Junior E-sports Manager
